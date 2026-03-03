@@ -10,8 +10,7 @@ An end-to-end machine learning project implementing a Convolutional Neural Netwo
 ## 📸 Interactive Prediction Demo
 > *Testing the trained `.keras` model on custom handwriting using the embedded Gradio UI.*
 
-![demo_screenshot.png]
-*(Note: Ensure you replace `demo_screenshot.png` with your actual screenshot of the Gradio interface)*
+![Gradio Model Demo](demo_screenshot.png) 
 
 ## 🧠 Model Details
 The model was trained on the MNIST dataset to classify digits (0-9). The preprocessing pipeline handles dynamic image resizing, color inversion (white background to black background), and grayscale normalization to ensure custom user drawings match the model's expected input shape `(1, 28, 28, 1)`.
