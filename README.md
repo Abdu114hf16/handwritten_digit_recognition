@@ -10,7 +10,7 @@ An end-to-end machine learning project implementing a Convolutional Neural Netwo
 ## 📸 Interactive Prediction Demo
 > *Testing the trained `.keras` model on custom handwriting using the embedded Gradio UI.*
 
-![Gradio Model Demo](demo_screenshot.png) 
+![demo_screenshot.png]
 *(Note: Ensure you replace `demo_screenshot.png` with your actual screenshot of the Gradio interface)*
 
 ## 🧠 Model Details
