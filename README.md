@@ -16,7 +16,7 @@ An end-to-end machine learning project implementing a Convolutional Neural Netwo
 The model was trained on the MNIST dataset to classify digits (0-9). The preprocessing pipeline handles dynamic image resizing, color inversion (white background to black background), and grayscale normalization to ensure custom user drawings match the model's expected input shape `(1, 28, 28, 1)`.
 
 * **Framework:** TensorFlow / Keras
-* **Test Accuracy:** [Insert your accuracy, e.g., 99.2%]
+* **Test Accuracy:** [99.04]
 * **UI Framework:** Gradio
 
 **Architecture Highlights:**
