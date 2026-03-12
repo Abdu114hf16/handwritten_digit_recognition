@@ -5,7 +5,7 @@
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-An end-to-end machine learning project implementing a Convolutional Neural Network (CNN) to recognize and classify handwritten digits. Built with TensorFlow/Keras, the project includes an interactive web UI built with Gradio directly embedded in the Jupyter Notebook for real-time model inference and testing.
+A machine learning project implementing a Convolutional Neural Network (CNN) to recognize and classify handwritten digits. Built with TensorFlow/Keras, the project includes an interactive UI built with Gradio directly embedded in the Jupyter Notebook for real-time model inference and testing.
 
 ## Interactive Prediction Demo
 > *Testing the trained `.keras` model on custom handwriting using the embedded Gradio UI.*
